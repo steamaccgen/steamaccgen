@@ -2,7 +2,7 @@
 
 A fully autonomous steam account generator with email auto verification and a game idler, it also has the ability to use proxies and the dot method on any email provider!
 
-![image](./.github/show.png)
+![image](https://github.com/LUXTACO/Steam-Account-Generator/raw/main/.github/show.png)
 
 ## Pros & Cons
 ___
